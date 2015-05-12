@@ -7,7 +7,7 @@ class Sale
 {
 // has price (type duoble, private)
 private:
-	double m_dPrice;
+	double Price;
 
 public:
 	Sale();
